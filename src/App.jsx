@@ -13,7 +13,7 @@ function App() {
       <Headers />
       <Sidebar />
 
-      <h1>hi ahmed</h1>
+      
       <h1>hi hassan</h1>
     </>
   );
